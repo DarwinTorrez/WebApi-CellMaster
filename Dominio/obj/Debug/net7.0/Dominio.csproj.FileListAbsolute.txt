@@ -1,0 +1,12 @@
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Dominio\bin\Debug\net7.0\Dominio.deps.json
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Dominio\bin\Debug\net7.0\Dominio.dll
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Dominio\bin\Debug\net7.0\Dominio.pdb
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Dominio\obj\Debug\net7.0\Dominio.dll
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Dominio\obj\Debug\net7.0\Dominio.pdb
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\obj\Debug\net7.0\Persistencia.csproj.AssemblyReference.cache
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\obj\Debug\net7.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfoInputs.cache
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfo.cs
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\bin\Debug\net7.0\Persistencia.deps.json
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\bin\Debug\net7.0\Persistencia.runtimeconfig.json
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\bin\Debug\net7.0\Persistencia.dll
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\bin\Debug\net7.0\Persistencia.pdb
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\bin\Debug\net7.0\Dominio.dll
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\bin\Debug\net7.0\Dominio.pdb
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CopyComplete
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\obj\Debug\net7.0\Persistencia.dll
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\obj\Debug\net7.0\Persistencia.pdb
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\obj\Debug\net7.0\Persistencia.genruntimeconfig.cache
+D:\Descargas\BOA 2_Grupo4\Prueba 1\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll
